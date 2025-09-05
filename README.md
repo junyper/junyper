@@ -6,13 +6,13 @@ Outside of work I’m into gardening, house plants, wrangling my dogs and cats, 
 
 ## **My Greatest Adventure (So Far\!)**
 
-What started as my weekend side project at Instructure became a suite of core libraries supporting 7+ product teams and multiple external customers. In just 3 years, I went from tinkering alone to leading a team of 5 brilliant engineers, mentoring teammates across the entire organization, and building accessibility right into the DNA of our components.
+What started as my weekend side project at Instructure became [a suite of core libraries](https://instructure.design/) supporting 7+ product teams and multiple external customers. In just 3 years, I went from tinkering alone to leading a team of 5 brilliant engineers, mentoring teammates across the entire organization, and building accessibility right into the DNA of our components.
 
-The best part? Watching teams ship features faster while making the web more inclusive—now *that's* what I call a win-win\! 
+The best part? Watching teams ship features faster while making the web more inclusive&mdash;now *that's* what I call a win-win\! 
 
 ## **My Exploratory Detour**
 
-After Instructure, I decided to explore several different corners of the tech world. I dove into front-end architecture, spent some time building developer tooling, doubled down on accessibility advocacy, and eventually found my way back to design systems.
+[After Instructure](https://www.linkedin.com/in/junyper/), I decided to explore several different corners of the tech world. I dove into front-end architecture, spent some time building developer tooling, doubled down on accessibility advocacy, and eventually found my way back to design systems.
 
 Sure, some roles were shorter than others, but each one taught me something valuable and helped me level up in ways I never expected.
 
@@ -36,7 +36,7 @@ I'm on the hunt for an individual contributor role where I can geek out with tea
 
 - **Psychological safety:** Where brilliant ideas flourish because everyone feels safe to think out loud, ask the "stupid" questions, and yes, even admit when they've broken production (we've all been there).
 
-- **Accessibility:** Not just checkboxes and compliance—I mean the real deal. Building products that welcome everyone and fostering workplaces where every voice matters.
+- **Accessibility:** Not just checkboxes and compliance&mdash;I mean the real deal. Building products that welcome everyone and fostering workplaces where every voice matters.
 
 ### 🤝 Collaboration
 
@@ -70,7 +70,7 @@ I'm on the hunt for an individual contributor role where I can geek out with tea
 
 ### 🚀 Productivity Multiplier
 
-I don't just write code—I create systems, tools, and documentation that make entire teams more effective. I lead by example and lift up my teammates, providing support, training, and guidance.
+I don't just write code&mdash;I create systems, tools, and documentation that make entire teams more effective. I lead by example and lift up my teammates, providing support, training, and guidance.
 
 ### 🌐 Systems Thinker
 
@@ -118,6 +118,6 @@ I'm always open to feedback and suggestions on productivity hacks that have work
 
 ## **Let’s Chat\!**
 
-I love talking shop about any of the stuff mentioned above—whether you want to dive deep into a particular project, swap productivity tips, or just geek out about cool tech. Seriously, ask me about anything\! I'm always up for a good conversation.
+I love talking shop about any of the stuff mentioned above&mdash;whether you want to dive deep into a particular project, swap productivity tips, or just geek out about cool tech. Seriously, ask me about anything\! I'm always up for a good conversation.
 
 Looking forward to connecting\!
